@@ -18,7 +18,8 @@ All socket code could be found in the `index.js`.
 <br><br>
 
 * Second is unity part. 
-<br>It has implementation of socket.io C# client and integration with Unity which includes some dlls. 
+<br>
+It has implementation of socket.io C# client and integration with Unity which includes some dlls. 
 <br>
 Original implementation of the C# socket.io client could be found at:<br> 
 https://github.com/doghappy/socket.io-client-csharp
