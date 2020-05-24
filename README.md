@@ -15,7 +15,8 @@ Project consist of two parts:
 <br>
 It was build with `express.js` framework and `socket.io` framework. Socket.io is responsible for handling communication between clients in realtime. Express.js is used in the case if the server side would grow into something more than a simple project.<br>
 All socket code could be found in the `index.js`.
-<br><br>
+<br><br><br>
+
 
 * Second is unity part. 
 <br>
