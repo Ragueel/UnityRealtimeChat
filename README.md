@@ -11,17 +11,17 @@ Initially I was planning on a implementation of a multiplayer server, but decide
 Project consist of two parts:
 <br>
 <br>
-* First server side. 
+* Server part. 
 <br>
 It was build with `express.js` framework and `socket.io` framework. Socket.io is responsible for handling communication between clients in realtime. Express.js is used in the case if the server side would grow into something more than a simple project.<br>
 All socket code could be found in the `index.js`.
 <br><br><br>
 
 
-* Second is unity part. 
+* Unity part. 
 <br>
-It has implementation of socket.io C# client and integration with Unity which includes some dlls. 
-<br>
+It has implementation of socket.io C# client and integration with Unity which includes some dlls. Main socket.io integration code could be found at `SocketIOClientMono.cs` inside Scripts folder.
+<br><br>
 Original implementation of the C# socket.io client could be found at:<br> 
 https://github.com/doghappy/socket.io-client-csharp
 <br>
