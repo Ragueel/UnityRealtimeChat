@@ -15,7 +15,7 @@ Second is unity part.
 <br>It has implementation of socket.io C# client and integration with Unity which includes some dlls. 
 <br>
 Original implementation of the C# socket.io client could be found at:<br> 
-[https://github.com/doghappy/socket.io-client-csharp](https://github.com/doghappy/socket.io-client-csharp)
+https://github.com/doghappy/socket.io-client-csharp
 <br>
 I had to modify some source code in order to make it work with Unity.
 <br>
